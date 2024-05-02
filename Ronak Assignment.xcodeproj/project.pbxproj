@@ -20,6 +20,7 @@
 		F7A6444A2BE3470C004BC639 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = F7A644492BE3470C004BC639 /* Alamofire */; };
 		F7A6444C2BE3470C004BC639 /* AlamofireDynamic in Frameworks */ = {isa = PBXBuildFile; productRef = F7A6444B2BE3470C004BC639 /* AlamofireDynamic */; };
 		F7A6444E2BE347D7004BC639 /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A6444D2BE347D7004BC639 /* UsersView.swift */; };
+		F7A644502BE35253004BC639 /* UserDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A6444F2BE35253004BC639 /* UserDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		F7A644442BE3460B004BC639 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
 		F7A644462BE34652004BC639 /* UserCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCellView.swift; sourceTree = "<group>"; };
 		F7A6444D2BE347D7004BC639 /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
+		F7A6444F2BE35253004BC639 /* UserDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				F7A644172BE3456D004BC639 /* ContentView.swift */,
 				F7A6444D2BE347D7004BC639 /* UsersView.swift */,
 				F7A644462BE34652004BC639 /* UserCellView.swift */,
+				F7A6444F2BE35253004BC639 /* UserDetailView.swift */,
 				F7A644402BE3458E004BC639 /* Models */,
 				F7A644192BE3456F004BC639 /* Assets.xcassets */,
 				F7A644412BE3459B004BC639 /* ViewModel */,
@@ -302,6 +305,7 @@
 				F7A644452BE3460B004BC639 /* UserViewModel.swift in Sources */,
 				F7A644182BE3456D004BC639 /* ContentView.swift in Sources */,
 				F7A644472BE34652004BC639 /* UserCellView.swift in Sources */,
+				F7A644502BE35253004BC639 /* UserDetailView.swift in Sources */,
 				F7A644162BE3456D004BC639 /* Ronak_AssignmentApp.swift in Sources */,
 				F7A6444E2BE347D7004BC639 /* UsersView.swift in Sources */,
 			);
