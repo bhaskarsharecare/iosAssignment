@@ -89,7 +89,7 @@
 		F7A644092BE3456D004BC639 = {
 			isa = PBXGroup;
 			children = (
-				F7A644142BE3456D004BC639 /* Ronak Assignment */,
+				F7A644142BE3456D004BC639 /* RonakAssignment */,
 				F7A644262BE3456F004BC639 /* Ronak AssignmentTests */,
 				F7A644302BE3456F004BC639 /* Ronak AssignmentUITests */,
 				F7A644132BE3456D004BC639 /* Products */,
@@ -106,7 +106,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F7A644142BE3456D004BC639 /* Ronak Assignment */ = {
+		F7A644142BE3456D004BC639 /* RonakAssignment */ = {
 			isa = PBXGroup;
 			children = (
 				F7A644152BE3456D004BC639 /* Ronak_AssignmentApp.swift */,
@@ -120,7 +120,7 @@
 				F7A6441B2BE3456F004BC639 /* Ronak_Assignment.entitlements */,
 				F7A6441C2BE3456F004BC639 /* Preview Content */,
 			);
-			path = "Ronak Assignment";
+			path = RonakAssignment;
 			sourceTree = "<group>";
 		};
 		F7A6441C2BE3456F004BC639 /* Preview Content */ = {
